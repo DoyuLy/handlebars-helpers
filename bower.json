@@ -25,8 +25,8 @@
   ],
   "dependencies": {
     //"arr-filter": "^1.1.1",
-    "arr-flatten": "^1.0.1",
-    "array-sort": "^0.1.2",
+    //"arr-flatten": "^1.0.1",
+    //"array-sort": "^0.1.2",
     "create-frame": "^0.1.2",
     "define-property": "^0.2.5",
     "export-files": "^2.1.1",
