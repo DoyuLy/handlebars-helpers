@@ -24,7 +24,7 @@
     "index.js"
   ],
   "dependencies": {
-    "arr-filter": "^1.1.1",
+    //"arr-filter": "^1.1.1",
     "arr-flatten": "^1.0.1",
     "array-sort": "^0.1.2",
     "create-frame": "^0.1.2",
